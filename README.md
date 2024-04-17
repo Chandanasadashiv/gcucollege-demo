@@ -1,3 +1,3 @@
-a# gcucollege-demo
+gcucollege-demo
 this is my first repository
 author-chandanasadashiv
